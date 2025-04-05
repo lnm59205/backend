@@ -1,0 +1,14 @@
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CNTT1702backend\LAB1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\CNTT1702backend\LAB1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\CNTT1702backend\LAB1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\CNTT1702backend\LAB1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\CNTT1702backend\LAB1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\CNTT1702backend\LAB1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

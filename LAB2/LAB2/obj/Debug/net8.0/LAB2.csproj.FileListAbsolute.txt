@@ -1,0 +1,14 @@
+D:\CNTT1702backend\LAB2\LAB2\bin\Debug\net8.0\LAB2.exe
+D:\CNTT1702backend\LAB2\LAB2\bin\Debug\net8.0\LAB2.deps.json
+D:\CNTT1702backend\LAB2\LAB2\bin\Debug\net8.0\LAB2.runtimeconfig.json
+D:\CNTT1702backend\LAB2\LAB2\bin\Debug\net8.0\LAB2.dll
+D:\CNTT1702backend\LAB2\LAB2\bin\Debug\net8.0\LAB2.pdb
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfoInputs.cache
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfo.cs
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.csproj.CoreCompileInputs.cache
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.dll
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\refint\LAB2.dll
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.pdb
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\LAB2.genruntimeconfig.cache
+D:\CNTT1702backend\LAB2\LAB2\obj\Debug\net8.0\ref\LAB2.dll
