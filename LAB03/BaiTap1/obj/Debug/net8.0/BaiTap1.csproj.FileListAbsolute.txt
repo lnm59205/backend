@@ -1,0 +1,14 @@
+D:\CNTT1702backend\LAB03\BaiTap1\bin\Debug\net8.0\BaiTap1.exe
+D:\CNTT1702backend\LAB03\BaiTap1\bin\Debug\net8.0\BaiTap1.deps.json
+D:\CNTT1702backend\LAB03\BaiTap1\bin\Debug\net8.0\BaiTap1.runtimeconfig.json
+D:\CNTT1702backend\LAB03\BaiTap1\bin\Debug\net8.0\BaiTap1.dll
+D:\CNTT1702backend\LAB03\BaiTap1\bin\Debug\net8.0\BaiTap1.pdb
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfoInputs.cache
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfo.cs
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.csproj.CoreCompileInputs.cache
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.dll
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\refint\BaiTap1.dll
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.pdb
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\BaiTap1.genruntimeconfig.cache
+D:\CNTT1702backend\LAB03\BaiTap1\obj\Debug\net8.0\ref\BaiTap1.dll
